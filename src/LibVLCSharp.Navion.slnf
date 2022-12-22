@@ -1,0 +1,18 @@
+{
+  "solution": {
+    "path": "LibVLCSharp.Navion.sln",
+    "projects": [
+      "..\\samples\\Uno\\LibVLCSharp.Uno.Sample.Droid\\LibVLCSharp.Uno.Sample.Droid.csproj",
+      "..\\samples\\Uno\\LibVLCSharp.Uno.Sample.Shared\\LibVLCSharp.Uno.Sample.Shared.shproj",
+      "..\\samples\\Uno\\LibVLCSharp.Uno.Sample.UWP\\LibVLCSharp.Uno.Sample.UWP.csproj",
+      "..\\samples\\Uno\\LibVLCSharp.Uno.Sample.iOS\\LibVLCSharp.Uno.Sample.iOS.csproj",
+      "..\\samples\\Uno\\Sample.MediaPlayerElement\\Sample.MediaPlayerElement.Droid\\Sample.MediaPlayerElement.Droid.csproj",
+      "..\\samples\\Uno\\Sample.MediaPlayerElement\\Sample.MediaPlayerElement.Shared\\Sample.MediaPlayerElement.Shared.shproj",
+      "..\\samples\\Uno\\Sample.MediaPlayerElement\\Sample.MediaPlayerElement.UWP\\Sample.MediaPlayerElement.UWP.csproj",
+      "..\\samples\\Uno\\Sample.MediaPlayerElement\\Sample.MediaPlayerElement.iOS\\Sample.MediaPlayerElement.iOS.csproj",
+      "LibVLCSharp.Android.AWindow\\LibVLCSharp.Android.AWindow.csproj",
+      "LibVLCSharp.Uno\\LibVLCSharp.Uno.csproj",
+      "LibVLCSharp\\LibVLCSharp.csproj"
+    ]
+  }
+}

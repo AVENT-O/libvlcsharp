@@ -115,9 +115,9 @@
     <BundleResource Include="Resources\Fonts\winjs-symbols.ttf" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Uno.UI" Version="2.0.527" />
+    <PackageReference Include="Uno.UI" Version="4.6.19" />
     <PackageReference Include="VideoLAN.LibVLC.iOS">
-      <Version>3.3.10</Version>
+      <Version>3.3.17</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
