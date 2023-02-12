@@ -114,9 +114,9 @@
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Uno.UI" Version="4.6.19" />
+    <PackageReference Include="Uno.UI" Version="4.7.37" />
     <PackageReference Include="VideoLAN.LibVLC.iOS">
-      <Version>3.3.17</Version>
+      <Version>3.3.18</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
