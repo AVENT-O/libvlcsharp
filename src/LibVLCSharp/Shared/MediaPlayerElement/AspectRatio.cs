@@ -3,7 +3,7 @@
     /// <summary>
     /// Describes how content is resized to fill its allocated space
     /// </summary>
-    internal enum AspectRatio
+    public enum AspectRatio
     {
         /// <summary>
         /// Best fit
@@ -28,6 +28,14 @@
         /// <summary>
         /// Original
         /// </summary>
-        Original
+        Original,
+        /// <summary>
+        /// x2
+        /// </summary>
+        _x2,
+        /// <summary>
+        /// x4
+        /// </summary>
+        _x4
     }
 }

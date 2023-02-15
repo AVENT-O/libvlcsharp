@@ -5,7 +5,7 @@ namespace LibVLCSharp.Uno
     /// <summary>
     /// Monitors display-related information for an application view
     /// </summary>
-    internal class DisplayInformation : IDisplayInformation
+    public class DisplayInformation : IDisplayInformation
     {
         /// <summary>
         /// Gets the scale factor

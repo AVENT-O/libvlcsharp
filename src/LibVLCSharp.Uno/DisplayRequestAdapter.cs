@@ -6,7 +6,7 @@ namespace LibVLCSharp.Uno
     /// <summary>
     /// Represents a display request
     /// </summary>
-    internal class DisplayRequestAdapter : IDisplayRequest
+    public class DisplayRequestAdapter : IDisplayRequest
     {
         /// <summary>
         /// Initializes a new instance of <see cref="DisplayRequestAdapter"/> class

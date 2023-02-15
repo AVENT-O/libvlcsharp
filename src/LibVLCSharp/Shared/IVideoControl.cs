@@ -5,7 +5,7 @@ namespace LibVLCSharp.Shared
     /// <summary>
     /// Interface for video control
     /// </summary>
-    internal interface IVideoControl : IVideoView
+    public interface IVideoControl : IVideoView
     {
         /// <summary>
         /// Occurs when the size of the control changes

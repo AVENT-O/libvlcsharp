@@ -3,7 +3,7 @@
     /// <summary>
     /// Interface to get display-related information for an application view
     /// </summary>
-    internal interface IDisplayInformation
+    public interface IDisplayInformation
     {
         /// <summary>
         /// Gets the scale factor

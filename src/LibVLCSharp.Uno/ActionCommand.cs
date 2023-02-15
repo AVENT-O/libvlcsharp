@@ -6,7 +6,7 @@ namespace LibVLCSharp.Uno
     /// <summary>
     /// Simple <see cref="ICommand"/> implementation
     /// </summary>
-    internal class ActionCommand<TParameter> : ICommand
+    public class ActionCommand<TParameter> : ICommand
     {
         event EventHandler? ICommand.CanExecuteChanged
         {
