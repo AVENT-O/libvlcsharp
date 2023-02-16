@@ -5,14 +5,14 @@ namespace LibVLCSharp.Shared.MediaPlayerElement
     /// <summary>
     /// Extensions methods for <see cref="TimeSpan"/>
     /// </summary>
-    internal static class TimeSpanExtensions
+    public static class TimeSpanExtensions
     {
         /// <summary>
         /// Converts the value of the current <see cref="TimeSpan"/> object to its equivalent short string representation
         /// </summary>
         /// <param name="span">time interval</param>
         /// <returns>the short string representation of the current <see cref="TimeSpan"/> value</returns>
-        internal static string ToShortString(this TimeSpan span)
+        public static string ToShortString(this TimeSpan span)
         {
             if (span.Days != 0)
             {
